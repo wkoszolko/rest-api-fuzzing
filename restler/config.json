@@ -1,0 +1,18 @@
+{
+  "SwaggerSpecFilePath": [
+    "/fuzzer/petclinic-api.json"
+  ],
+  "GrammarOutputDirectoryPath": "/fuzzer/Compile",
+  "CustomDictionaryFilePath": "/fuzzer/dict.json",
+  "IncludeOptionalParameters": true,
+  "UseQueryExamples": true,
+  "UseBodyExamples": true,
+  "DiscoverExamples": false,
+  "ExamplesDirectory": "",
+  "DataFuzzing": true,
+  "ReadOnlyFuzz": false,
+  "ResolveQueryDependencies": true,
+  "ResolveBodyDependencies": true,
+  "UseRefreshableToken": true,
+  "AllowGetProducers": false
+}
